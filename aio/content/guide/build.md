@@ -44,7 +44,7 @@ export const environment = {
 ```
 
 You can add target-specific configuration files, such as `environment.prod.ts`.
-The following sets content sets default values for the production build target:
+The following sets default values for the production build target:
 
 ```
 export const environment = {
